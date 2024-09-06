@@ -10,6 +10,6 @@
   "author": "Red Hat Training",
   "private": true,
   "dependencies": {
-    "fastify": "^3.26.0"
+    "fastify": "^4.24.1"
   }
 }
